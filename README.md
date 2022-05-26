@@ -7,7 +7,7 @@
 
 <div style="display: flex,  ">
  
-  <img  height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=jhonnatanBezerra&show_icons=true&hide=contribs,prs&theme=tokyonight&include_all_commits=true" />
+  <img  height="180cm" width="500cm" src="https://github-readme-stats.vercel.app/api?username=jhonnatanBezerra&show_icons=true&hide=contribs,prs&theme=tokyonight&include_all_commits=true&count_private=true" />
 
   <img   height="200cm" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnatanBezerra&layout=compact&langs_count=16&theme=tokyonight " />
    
